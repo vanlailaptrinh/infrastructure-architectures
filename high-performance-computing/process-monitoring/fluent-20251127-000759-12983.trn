@@ -1,0 +1,254 @@
+Auto-Transcript Start Time:  00:07:59, 27 Nov 2025 
+Current Directory: "/home/ansysuser/fluent_job/test_case1"
+/usr/ansys_inc/v221/fluent/fluent22.1.0/bin/fluent -r22.1.0 2ddp -pshmem -host -t1 -mpi=openmpi -path/usr/ansys_inc/v221/fluent -ssh -cx ansys-fluent:36767:43921
+Starting /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_host/fluent.22.1.0 host -cx ansys-fluent:36767:43921 "(list (rpsetvar (QUOTE parallel/function) "fluent 2ddp -flux -node -r22.1.0 -t1 -pshmem -mpi=openmpi -ssh") (rpsetvar (QUOTE parallel/rhost) "") (rpsetvar (QUOTE parallel/ruser) "") (rpsetvar (QUOTE parallel/nprocs_string) "1") (rpsetvar (QUOTE parallel/auto-spawn?) #t) (rpsetvar (QUOTE parallel/trace-level) 0) (rpsetvar (QUOTE parallel/remote-shell) 1) (rpsetvar (QUOTE parallel/path) "/usr/ansys_inc/v221/fluent") (rpsetvar (QUOTE parallel/hostsfile) "") (rpsetvar (QUOTE gpuapp/devices) ""))"
+
+              Welcome to ANSYS Fluent 2022 R1
+
+              Copyright 1987-2022 ANSYS, Inc. All Rights Reserved.
+              Unauthorized use, distribution or duplication is prohibited.
+              This product is subject to U.S. laws governing export and re-export.
+              For full Legal Notice, see documentation.
+
+Build Time: Nov 29 2021 12:13:25 EST  Build Id: 10213  
+ 
+Connected License Server List:	
+
+*********************************************
+Info: Your license enables 4-way parallel execution.
+For faster simulations, please start the application with the appropriate parallel options.
+*********************************************
+
+Host spawning Node 0 on machine "ansys-fluent" (unix).
+/usr/ansys_inc/v221/fluent/fluent22.1.0/bin/fluent -r22.1.0 2ddp -flux -node -t1 -pshmem -mpi=openmpi -ssh -mport 192.168.1.201:192.168.1.201:40701:0
+Starting fixfiledes /usr/ansys_inc/v221/fluent/fluent22.1.0/multiport/mpi/lnamd64/openmpi/bin/mpirun --map-by numa --mca btl self,vader,tcp --mca pml ^ucx --mca btl_sm_use_knem 0 --prefix /usr/ansys_inc/v221/fluent/fluent22.1.0/multiport/mpi/lnamd64/openmpi -x LD_LIBRARY_PATH --np 1 --host ansys-fluent:1 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.201:192.168.1.201:40701:0
+
+---------------------------------------------------------------------------------
+ID    Hostname      Core  O.S.      PID    Vendor                               
+---------------------------------------------------------------------------------
+n0    ansys-fluent  1/10  Linux-64  13388  12th Gen Intel(R) Core(TM) i7-12650H 
+host  ansys-fluent        Linux-64  13163  12th Gen Intel(R) Core(TM) i7-12650H 
+
+MPI Option Selected: openmpi
+---------------------------------------------------------------------------------
+
+Cleanup script file is /home/ansysuser/fluent_job/test_case1/cleanup-fluent-ansys-fluent-13163.sh
+
+ +------------------------------------------------------------------+
+ |                    ANSYS Product Improvement                     |
+ |                                                                  |
+ |   ANSYS Product Improvement Program helps improve ANSYS          |
+ |   products. Participating in this program is like filling out a  |
+ |   survey. Without interrupting your work, the software reports   |
+ |   anonymous usage information such as errors, machine and        |
+ |   solver statistics, features used, etc. to ANSYS. We never      |
+ |   use the data to identify or contact you.                       |
+ |   The data does NOT contain:                                     |
+ |   - Any personally identifiable information including names,     |
+ |     IP addresses, file names, part names, etc.                   |
+ |   - Any information about your geometry or design specific       |
+ |     inputs.                                                      |
+ |   You can stop participation at any time. To change your         |
+ |   selection go to Help >> ANSYS Product Improvement Program      |
+ |   in the GUI.                                                    |
+ |   For more information about the ANSYS Privacy Policy, please    |
+ |   check: http://www.ansys.com/privacy                            |
+ |                                                                  |
+ +------------------------------------------------------------------+
+
+Reading journal file run.jou...
+
+> #/finvalid command [#]
+ile/read-case inlet.cas
+
+> #/sinvalid command [#]
+olve/initialize/initialize-flow
+
+> #/sinvalid command [#]
+olve/iterate 300
+
+> #/finvalid command [#]
+ile/write-case-data result.cas
+
+> #/finvalid command [#]
+ile/write-data result.dat
+
+> #/einvalid command [#]
+xit yes
+
+> 
+define/                 parallel/               server/
+display/                plot/                   solve/
+exit                    preferences/            surface/
+file/                   print-license-usage     views/
+mesh/                   report/
+
+> file/read-case inlet.cas
+WARNING: Rank:0 Machine ansys-fluent has 12 % of RAM filled with file buffer caches.
+This can cause potential performance issues. Please use -cflush flag to flush the cache. 
+
+
+Reading "inlet.cas"...
+
+Buffering for file scan...
+
+
+
+    2499 quadrilateral cells, zone  2, binary.
+     411 quadrilateral cells, zone  8, binary.
+     411 cell child pointers, parent zone  8, child zone  2, binary.
+     111 2D axis faces, zone  3, binary.
+     100 2D wall faces, zone  4, binary.
+      16 2D pressure-inlet faces, zone  5, binary.
+      15 2D pressure-outlet faces, zone  6, binary.
+      55 2D wall faces, zone  7, binary.
+    4885 2D interior faces, zone  9, binary.
+       5 2D parent-face faces, zone 14, binary.
+      50 2D parent-face faces, zone 13, binary.
+       5 2D parent-face faces, zone 12, binary.
+      11 2D parent-face faces, zone 11, binary.
+     822 2D parent-face faces, zone 10, binary.
+       5 face child pointers, parent zone 14, child zone  6, binary.
+      50 face child pointers, parent zone 13, child zone  4, binary.
+       5 face child pointers, parent zone 12, child zone  7, binary.
+      11 face child pointers, parent zone 11, child zone  3, binary.
+     822 face child pointers, parent zone 10, child zone  9, binary.
+    2684 nodes, binary.
+2684 node flags, binary.
+
+Warning: this is a double-precision solver.
+
+Warning: High-resolution particle tracking is not compatible with the shared
+         memory parallel option.  Shared memory is being disabled in the solver.
+
+
+Building...
+     mesh
+     materials,
+     interface,
+     domains,
+	mixture
+     zones,
+	default-interior
+	flange_wall
+	pressure_outlet.3
+	pressure_inlet.4
+	pipe_wall
+	axis.8
+	fluid
+     parallel,
+
+Note: axi, pressure-based, standard k-epsilon case read into
+      axi, double precision, pressure-based, standard k-epsilon solver.
+
+
+
+Done.
+
+The DPM shared memory parallel option is not recommended and will be deprecated
+in a future Fluent version.  Please enable either the hybrid or message-passing
+parallel options.
+
+
+>  
+adjoint/                mesh/                   report/
+define/                 parallel/               server/
+display/                plot/                   solve/
+exit                    preferences/            surface/
+file/                   print-license-usage     views/
+
+> /solve/initialize/initialize-flow
+
+> 
+adjoint/                mesh/                   report/
+define/                 parallel/               server/
+display/                plot/                   solve/
+exit                    preferences/            surface/
+file/                   print-license-usage     views/
+
+> /solve/iterate 300
+
+  iter  continuity  x-velocity  y-velocity           k     epsilon     time/iter
+
+The DPM shared memory parallel option is not recommended and will be deprecated
+in a future Fluent version.  Please enable either the hybrid or message-passing
+parallel options.
+
+    10  6.3500e-01  4.3002e-02  6.3411e-03  8.9378e-03  1.7240e-02  0:00:01  290
+    20  7.4234e-02  2.1727e-02  3.6200e-03  5.5241e-03  8.0812e-03  0:00:01  280
+    30  2.1911e-02  1.3803e-02  2.3941e-03  4.8514e-03  6.2734e-03  0:00:01  270
+    40  1.8250e-02  9.5250e-03  1.5834e-03  4.5675e-03  6.0315e-03  0:00:01  260
+    50  2.1964e-02  6.8684e-03  1.0369e-03  4.1966e-03  5.7756e-03  0:00:01  250
+    60  2.9956e-02  5.0875e-03  7.1047e-04  3.7062e-03  5.2785e-03  0:00:01  240
+    70  3.7078e-02  3.8360e-03  5.0663e-04  3.2368e-03  4.7978e-03  0:00:01  230
+    80  4.3623e-02  2.9417e-03  3.7369e-04  2.8299e-03  4.3121e-03  0:00:01  220
+    90  5.8229e-02  2.2883e-03  2.8172e-04  2.4208e-03  3.7045e-03  0:00:01  210
+   100  6.1053e-02  1.8027e-03  2.2015e-04  2.0433e-03  3.1266e-03  0:00:01  200
+   110  5.9386e-02  1.4389e-03  1.7607e-04  1.7341e-03  2.5991e-03  0:00:01  190
+
+  iter  continuity  x-velocity  y-velocity           k     epsilon     time/iter
+   120  5.4995e-02  1.1719e-03  1.4588e-04  1.4471e-03  2.1598e-03  0:00:01  180
+   130  4.2851e-02  9.7209e-04  1.2407e-04  1.2008e-03  1.7794e-03  0:00:01  170
+   140  2.6780e-02  8.2247e-04  1.0685e-04  1.0220e-03  1.4437e-03  0:00:01  160
+   150  1.6370e-02  7.0752e-04  9.2701e-05  9.5412e-04  1.2104e-03  0:00:01  150
+   160  1.2033e-02  6.2002e-04  8.0917e-05  9.6876e-04  1.1635e-03  0:00:00  140
+   170  9.8974e-03  5.4777e-04  7.0431e-05  9.0891e-04  1.0160e-03  0:00:00  130
+   180  7.6348e-03  4.8164e-04  5.7525e-05  7.1123e-04  1.0026e-03  0:00:00  120
+   190  5.5838e-03  4.1666e-04  4.2834e-05  5.0850e-04  1.0565e-03  0:00:00  110
+   200  4.6738e-03  3.5682e-04  3.4197e-05  3.9486e-04  9.3718e-04  0:00:00  100
+   210  4.1486e-03  3.0506e-04  2.9591e-05  3.5170e-04  7.9793e-04  0:00:00   90
+   220  3.6837e-03  2.5905e-04  2.5408e-05  3.7326e-04  7.2044e-04  0:00:00   80
+
+  iter  continuity  x-velocity  y-velocity           k     epsilon     time/iter
+   230  3.2108e-03  2.1857e-04  2.0982e-05  3.9099e-04  6.5200e-04  0:00:00   70
+   240  2.7719e-03  1.8323e-04  1.6593e-05  3.7590e-04  5.7689e-04  0:00:00   60
+   250  2.3583e-03  1.5351e-04  1.3177e-05  3.3665e-04  4.9798e-04  0:00:00   50
+   260  1.9980e-03  1.2897e-04  1.0640e-05  2.9010e-04  4.2434e-04  0:00:00   40
+   270  1.6928e-03  1.0862e-04  8.7803e-06  2.4769e-04  3.6037e-04  0:00:00   30
+   280  1.4427e-03  9.1711e-05  7.4606e-06  2.1179e-04  3.0604e-04  0:00:00   20
+   290  1.2445e-03  7.7568e-05  6.3630e-06  1.8106e-04  2.5990e-04  0:00:00   10
+   300  1.0432e-03  6.5692e-05  5.4164e-06  1.5433e-04  2.2051e-04  0:00:00    0
+
+> 
+adjoint/                mesh/                   report/
+define/                 parallel/               server/
+display/                plot/                   solve/
+exit                    preferences/            surface/
+file/                   print-license-usage     views/
+
+>  
+adjoint/                mesh/                   report/
+define/                 parallel/               server/
+display/                plot/                   solve/
+exit                    preferences/            surface/
+file/                   print-license-usage     views/
+
+> /file/write-case-data result.cas
+Fast-loading "/usr/ansys_inc/v221/fluent/fluent22.1.0/addons/afd/lib/hdfio.bin"
+Done.
+
+Writing to ansys-fluent:"/home/ansysuser/fluent_job/test_case1/result.cas.h5" in NODE0 mode and compression level 1 ...
+  Writing mesh ...
+        2910 cells,     2 zones ...
+        6075 faces,    11 zones ...
+        2684 nodes,     1 zone  ...
+  Done.
+Done.
+
+Writing to ansys-fluent:"/home/ansysuser/fluent_job/test_case1/result.dat.h5" in NODE0 mode and compression level 1 ...
+  Writing results.
+Done.
+
+> /file/write-data result.dat
+The file "result.dat.h5" already exists.
+OK to overwrite? [cancel] 
+
+> 
+adjoint/                mesh/                   report/
+define/                 parallel/               server/
+display/                plot/                   solve/
+exit                    preferences/            surface/
+file/                   print-license-usage     views/
+
+> /exit Auto-Transcript Stop Time:  00:08:08, 27 Nov 2025 
+Total Transcript Time: 0 Minute 8 Second.
