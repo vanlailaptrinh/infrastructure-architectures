@@ -1,0 +1,6 @@
+/file/read-case-data inlet.cas
+/solve/initialize/initialize-flow
+/solve/iterate 300
+/file/write-case-data result.cas
+/file/write-data result.dat
+/exit yes

@@ -1,11 +1,11 @@
-# 🏛️ Architecture Deep Dive: SSH Certificate Authority (CA) Flow
+# Architecture Deep Dive: SSH Certificate Authority (CA) Flow
 
-## 📌 Overview
+## Overview
 This document outlines the authentication flow of an **SSH Certificate Authority (SSH CA)** architecture. This model replaces the traditional, hard-to-manage `authorized_keys` approach with **short-lived, cryptographically signed certificates**, representing a modern Enterprise standard for secure infrastructure access.
 
 ---
 
-## 🔍 Step-by-Step Authentication Flow
+## Step-by-Step Authentication Flow
 
 The architecture operates in three distinct phases: **Trust Setup**, **Certificate Issuance**, and **Authentication**.
 
@@ -41,7 +41,7 @@ The user now attempts to access the target server.
 
 ---
 
-## 💡 Enterprise Benefits & Conclusion
+## Enterprise Benefits & Conclusion
 
 This model is heavily favored by large tech organizations (like Netflix, Uber) due to its high security and scalability. 
 
@@ -52,5 +52,5 @@ This model is heavily favored by large tech organizations (like Netflix, Uber) d
 
 ---
 
-## 📊 Diagram
+## Diagram
 ![SSH CA Authentication Flow](../images/ssh-ca-authentication-flow.png)
