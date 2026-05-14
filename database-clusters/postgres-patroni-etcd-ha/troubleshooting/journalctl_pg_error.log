@@ -1,0 +1,50 @@
+2026-05-14 04:49:51.873 EDT [6950] LOG:  startup process (PID 6955) exited with exit code 1
+2026-05-14 04:49:51.873 EDT [6950] LOG:  aborting startup due to startup process failure
+2026-05-14 04:49:51.874 EDT [6950] LOG:  database system is shut down
+2026-05-14 04:50:11.822 EDT [6964] LOG:  starting PostgreSQL 16.10 on x86_64-pc-linux-gnu, compiled by gcc (GCC) 11.5.0 20240719 (Red Hat 11.5.0-5), 64-bit
+2026-05-14 04:50:11.822 EDT [6964] LOG:  listening on IPv4 address "192.168.100.153", port 5432
+2026-05-14 04:50:11.824 EDT [6964] LOG:  listening on Unix socket "/run/postgresql/.s.PGSQL.5432"
+2026-05-14 04:50:11.826 EDT [6964] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2026-05-14 04:50:11.834 EDT [6969] LOG:  database system was shut down in recovery at 2026-05-14 04:39:36 EDT
+2026-05-14 04:50:11.834 EDT [6970] FATAL:  the database system is starting up
+2026-05-14 04:50:11.835 EDT [6969] LOG:  entering standby mode
+2026-05-14 04:50:11.835 EDT [6969] FATAL:  requested timeline 3 is not a child of this server's history
+2026-05-14 04:50:11.835 EDT [6969] DETAIL:  Latest checkpoint is at 0/408D1C8 on timeline 2, but in the history of the requested timeline, the server forked off from that timeline at 0/4087B98.
+2026-05-14 04:50:11.836 EDT [6964] LOG:  startup process (PID 6969) exited with exit code 1
+2026-05-14 04:50:11.836 EDT [6964] LOG:  aborting startup due to startup process failure
+2026-05-14 04:50:11.837 EDT [6964] LOG:  database system is shut down
+2026-05-14 04:50:31.825 EDT [6978] LOG:  starting PostgreSQL 16.10 on x86_64-pc-linux-gnu, compiled by gcc (GCC) 11.5.0 20240719 (Red Hat 11.5.0-5), 64-bit
+2026-05-14 04:50:31.825 EDT [6978] LOG:  listening on IPv4 address "192.168.100.153", port 5432
+2026-05-14 04:50:31.829 EDT [6978] LOG:  listening on Unix socket "/run/postgresql/.s.PGSQL.5432"
+2026-05-14 04:50:31.831 EDT [6978] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2026-05-14 04:50:31.834 EDT [6984] FATAL:  the database system is starting up
+2026-05-14 04:50:31.834 EDT [6983] LOG:  database system was shut down in recovery at 2026-05-14 04:39:36 EDT
+2026-05-14 04:50:31.834 EDT [6983] LOG:  entering standby mode
+2026-05-14 04:50:31.834 EDT [6983] FATAL:  requested timeline 3 is not a child of this server's history
+2026-05-14 04:50:31.834 EDT [6983] DETAIL:  Latest checkpoint is at 0/408D1C8 on timeline 2, but in the history of the requested timeline, the server forked off from that timeline at 0/4087B98.
+2026-05-14 04:50:31.835 EDT [6978] LOG:  startup process (PID 6983) exited with exit code 1
+2026-05-14 04:50:31.835 EDT [6978] LOG:  aborting startup due to startup process failure
+2026-05-14 04:50:31.835 EDT [6978] LOG:  database system is shut down
+2026-05-14 04:50:51.808 EDT [6992] LOG:  starting PostgreSQL 16.10 on x86_64-pc-linux-gnu, compiled by gcc (GCC) 11.5.0 20240719 (Red Hat 11.5.0-5), 64-bit
+2026-05-14 04:50:51.808 EDT [6992] LOG:  listening on IPv4 address "192.168.100.153", port 5432
+2026-05-14 04:50:51.810 EDT [6992] LOG:  listening on Unix socket "/run/postgresql/.s.PGSQL.5432"
+2026-05-14 04:50:51.813 EDT [6992] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2026-05-14 04:50:51.816 EDT [6997] LOG:  database system was shut down in recovery at 2026-05-14 04:39:36 EDT
+2026-05-14 04:50:51.816 EDT [6997] LOG:  entering standby mode
+2026-05-14 04:50:51.816 EDT [6997] FATAL:  requested timeline 3 is not a child of this server's history
+2026-05-14 04:50:51.816 EDT [6997] DETAIL:  Latest checkpoint is at 0/408D1C8 on timeline 2, but in the history of the requested timeline, the server forked off from that timeline at 0/4087B98.
+2026-05-14 04:50:51.817 EDT [6992] LOG:  startup process (PID 6997) exited with exit code 1
+2026-05-14 04:50:51.817 EDT [6992] LOG:  aborting startup due to startup process failure
+2026-05-14 04:50:51.817 EDT [6992] LOG:  database system is shut down
+2026-05-14 04:51:11.812 EDT [7004] LOG:  starting PostgreSQL 16.10 on x86_64-pc-linux-gnu, compiled by gcc (GCC) 11.5.0 20240719 (Red Hat 11.5.0-5), 64-bit
+2026-05-14 04:51:11.812 EDT [7004] LOG:  listening on IPv4 address "192.168.100.153", port 5432
+2026-05-14 04:51:11.814 EDT [7004] LOG:  listening on Unix socket "/run/postgresql/.s.PGSQL.5432"
+2026-05-14 04:51:11.817 EDT [7004] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2026-05-14 04:51:11.820 EDT [7009] LOG:  database system was shut down in recovery at 2026-05-14 04:39:36 EDT
+2026-05-14 04:51:11.820 EDT [7009] LOG:  entering standby mode
+2026-05-14 04:51:11.820 EDT [7009] FATAL:  requested timeline 3 is not a child of this server's history
+2026-05-14 04:51:11.820 EDT [7009] DETAIL:  Latest checkpoint is at 0/408D1C8 on timeline 2, but in the history of the requested timeline, the server forked off from that timeline at 0/4087B98.
+2026-05-14 04:51:11.821 EDT [7010] FATAL:  the database system is starting up
+2026-05-14 04:51:11.822 EDT [7004] LOG:  startup process (PID 7009) exited with exit code 1
+2026-05-14 04:51:11.822 EDT [7004] LOG:  aborting startup due to startup process failure
+2026-05-14 04:51:11.822 EDT [7004] LOG:  database system is shut down

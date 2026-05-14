@@ -1,0 +1,29 @@
+May 14 04:26:18 master-node patroni[4631]:   Backup end location: 0/0
+May 14 04:26:18 master-node patroni[4631]:   End-of-backup record required: no
+May 14 04:26:18 master-node patroni[4631]:   wal_level setting: replica
+May 14 04:26:18 master-node patroni[4631]:   wal_log_hints setting: on
+May 14 04:26:18 master-node patroni[4631]:   max_connections setting: 100
+May 14 04:26:18 master-node patroni[4631]:   max_worker_processes setting: 8
+May 14 04:26:18 master-node patroni[4631]:   max_wal_senders setting: 10
+May 14 04:26:18 master-node patroni[4631]:   max_prepared_xacts setting: 0
+May 14 04:26:18 master-node patroni[4631]:   max_locks_per_xact setting: 64
+May 14 04:26:18 master-node patroni[4631]:   track_commit_timestamp setting: off
+May 14 04:26:18 master-node patroni[4631]:   Maximum data alignment: 8
+May 14 04:26:18 master-node patroni[4631]:   Database block size: 8192
+May 14 04:26:18 master-node patroni[4631]:   Blocks per segment of large relation: 131072
+May 14 04:26:18 master-node patroni[4631]:   WAL block size: 8192
+May 14 04:26:18 master-node patroni[4631]:   Bytes per WAL segment: 16777216
+May 14 04:26:18 master-node patroni[4631]:   Maximum length of identifiers: 64
+May 14 04:26:18 master-node patroni[4631]:   Maximum columns in an index: 32
+May 14 04:26:18 master-node patroni[4631]:   Maximum size of a TOAST chunk: 1996
+May 14 04:26:18 master-node patroni[4631]:   Size of a large-object chunk: 2048
+May 14 04:26:18 master-node patroni[4631]:   Date/time type storage: 64-bit integers
+May 14 04:26:18 master-node patroni[4631]:   Float8 argument passing: by value
+May 14 04:26:18 master-node patroni[4631]:   Data page checksum version: 1
+May 14 04:26:18 master-node patroni[4631]:   Mock authentication nonce: 08832afe6a7eed8a74fa69800dee3dbddd8b7cc86aa235abf71ad1e8a4b5d05f
+May 14 04:26:18 master-node patroni[4631]: 2026-05-14 04:26:18,377 INFO: Lock owner: None; I am master-node
+May 14 04:26:18 master-node patroni[4631]: 2026-05-14 04:26:18,425 INFO: starting as a secondary
+May 14 04:26:18 master-node patroni[4631]: 2026-05-14 04:26:18,673 INFO: postmaster pid=4647
+May 14 04:26:18 master-node patroni[4648]: 192.168.100.251:5432 - no response
+May 14 04:26:18 master-node patroni[4647]: 2026-05-14 04:26:18.685 EDT [4647] LOG:  redirecting log output to logging collector process
+May 14 04:26:18 master-node patroni[4647]: 2026-05-14 04:26:18.685 EDT [4647] HINT:  Future log output will appear in directory "log".

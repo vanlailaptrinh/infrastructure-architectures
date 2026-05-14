@@ -1,0 +1,50 @@
+May 14 04:09:19 master-node patroni[732]:   Latest checkpoint location: 0/4087868
+May 14 04:09:19 master-node patroni[732]:   Latest checkpoint's REDO location: 0/4087830
+May 14 04:09:19 master-node patroni[732]:   Latest checkpoint's REDO WAL file: 000000010000000000000004
+May 14 04:09:19 master-node patroni[732]:   Latest checkpoint's TimeLineID: 1
+May 14 04:09:19 master-node patroni[732]:   Latest checkpoint's PrevTimeLineID: 1
+May 14 04:09:19 master-node patroni[732]:   Latest checkpoint's full_page_writes: on
+May 14 04:09:19 master-node patroni[732]:   Latest checkpoint's NextXID: 0:754
+May 14 04:09:19 master-node patroni[732]:   Latest checkpoint's NextOID: 16400
+May 14 04:09:19 master-node patroni[732]:   Latest checkpoint's NextMultiXactId: 1
+May 14 04:09:19 master-node patroni[732]:   Latest checkpoint's NextMultiOffset: 0
+May 14 04:09:19 master-node patroni[732]:   Latest checkpoint's oldestXID: 723
+May 14 04:09:19 master-node patroni[732]:   Latest checkpoint's oldestXID's DB: 1
+May 14 04:09:19 master-node patroni[732]:   Latest checkpoint's oldestActiveXID: 754
+May 14 04:09:19 master-node patroni[732]:   Latest checkpoint's oldestMultiXid: 1
+May 14 04:09:19 master-node patroni[732]:   Latest checkpoint's oldestMulti's DB: 1
+May 14 04:09:19 master-node patroni[732]:   Latest checkpoint's oldestCommitTsXid: 0
+May 14 04:09:19 master-node patroni[732]:   Latest checkpoint's newestCommitTsXid: 0
+May 14 04:09:19 master-node patroni[732]:   Time of latest checkpoint: Thu May 14 03:26:59 2026
+May 14 04:09:19 master-node patroni[732]:   Fake LSN counter for unlogged rels: 0/3E8
+May 14 04:09:19 master-node patroni[732]:   Minimum recovery ending location: 0/0
+May 14 04:09:19 master-node patroni[732]:   Min recovery ending loc's timeline: 0
+May 14 04:09:19 master-node patroni[732]:   Backup start location: 0/0
+May 14 04:09:19 master-node patroni[732]:   Backup end location: 0/0
+May 14 04:09:19 master-node patroni[732]:   End-of-backup record required: no
+May 14 04:09:19 master-node patroni[732]:   wal_level setting: replica
+May 14 04:09:19 master-node patroni[732]:   wal_log_hints setting: on
+May 14 04:09:19 master-node patroni[732]:   max_connections setting: 100
+May 14 04:09:19 master-node patroni[732]:   max_worker_processes setting: 8
+May 14 04:09:19 master-node patroni[732]:   max_wal_senders setting: 10
+May 14 04:09:19 master-node patroni[732]:   max_prepared_xacts setting: 0
+May 14 04:09:19 master-node patroni[732]:   max_locks_per_xact setting: 64
+May 14 04:09:19 master-node patroni[732]:   track_commit_timestamp setting: off
+May 14 04:09:19 master-node patroni[732]:   Maximum data alignment: 8
+May 14 04:09:19 master-node patroni[732]:   Database block size: 8192
+May 14 04:09:19 master-node patroni[732]:   Blocks per segment of large relation: 131072
+May 14 04:09:19 master-node patroni[732]:   WAL block size: 8192
+May 14 04:09:19 master-node patroni[732]:   Bytes per WAL segment: 16777216
+May 14 04:09:19 master-node patroni[732]:   Maximum length of identifiers: 64
+May 14 04:09:19 master-node patroni[732]:   Maximum columns in an index: 32
+May 14 04:09:19 master-node patroni[732]:   Maximum size of a TOAST chunk: 1996
+May 14 04:09:19 master-node patroni[732]:   Size of a large-object chunk: 2048
+May 14 04:09:19 master-node patroni[732]:   Date/time type storage: 64-bit integers
+May 14 04:09:19 master-node patroni[732]:   Float8 argument passing: by value
+May 14 04:09:19 master-node patroni[732]:   Data page checksum version: 1
+May 14 04:09:19 master-node patroni[732]:   Mock authentication nonce: 08832afe6a7eed8a74fa69800dee3dbddd8b7cc86aa235abf71ad1e8a4b5d05f
+May 14 04:09:19 master-node patroni[732]: 2026-05-14 04:09:19,696 INFO: doing crash recovery in a single user mode
+May 14 04:09:19 master-node patroni[732]: 2026-05-14 04:09:19,731 ERROR: Crash recovery finished with code=1
+May 14 04:09:19 master-node patroni[732]: 2026-05-14 04:09:19,731 INFO:  stdout=
+May 14 04:09:19 master-node patroni[732]: 2026-05-14 04:09:19,731 INFO:  stderr=2026-05-14 04:09:19.730 EDT [3807] FATAL:  lock file "postmaster.pid" already exists
+May 14 04:09:19 master-node patroni[732]: 2026-05-14 04:09:19.730 EDT [3807] HINT:  Is another postmaster (PID 788) running in data directory "/var/lib/pgsql/16/data"?

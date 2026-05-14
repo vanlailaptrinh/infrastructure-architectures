@@ -1,0 +1,521 @@
+=== START LOGGING at Thứ tư, 12 Tháng 11 năm 2025 23:13:21 EST ===
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:13:21 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.0 /bin/bash /home/ansysuser/check_fluent.sh
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:13:22 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.0 /bin/bash /home/ansysuser/check_fluent.sh
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:13:23 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.0 /bin/bash /home/ansysuser/check_fluent.sh
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:13:24 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.0 /bin/bash /home/ansysuser/check_fluent.sh
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:13:25 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.2 /bin/bash /home/ansysuser/check_fluent.sh
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:13:26 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.2 /bin/bash /home/ansysuser/check_fluent.sh
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:13:27 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.1 /bin/bash /home/ansysuser/check_fluent.sh
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:13:28 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.1 /bin/bash /home/ansysuser/check_fluent.sh
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:13:29 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.1 /bin/bash /home/ansysuser/check_fluent.sh
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:13:30 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.2 /bin/bash /home/ansysuser/check_fluent.sh
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:13:31 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.2 /bin/bash /home/ansysuser/check_fluent.sh
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:13:32 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.1 /bin/bash /home/ansysuser/check_fluent.sh
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:13:33 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.1 /bin/bash /home/ansysuser/check_fluent.sh
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:13:34 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.1 /bin/bash /home/ansysuser/check_fluent.sh
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:13:35 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.2 /bin/bash /home/ansysuser/check_fluent.sh
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:13:36 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.2 /bin/bash /home/ansysuser/check_fluent.sh
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:13:37 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.2 /bin/bash /home/ansysuser/check_fluent.sh
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:13:39 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.2 /bin/bash /home/ansysuser/check_fluent.sh
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:13:40 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.2 /bin/bash /home/ansysuser/check_fluent.sh
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:13:41 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.2 /bin/bash /home/ansysuser/check_fluent.sh
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:13:42 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.2 /bin/bash /home/ansysuser/check_fluent.sh
+  12639 vantran   1.0 /bin/sh /usr/ansys_inc/v221/fluent/fluent22.1.0/bin/fluent -r22.1.0 2ddp -g -t8 -mpi=openmpi -i run.jou -wait
+  12937 vantran  75.0 /usr/ansys_inc/v221/fluent/fluent22.1.0/cortex/lnamd64/cortex.22.1.0 -f fluent -g -wait -i run.jou (fluent "2ddp -pshmem  -host -r22.1.0 -t8 -mpi=openmpi -path/usr/ansys_inc/v221/fluent -ssh")
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:13:43 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.2 /bin/bash /home/ansysuser/check_fluent.sh
+  12639 vantran   0.5 /bin/sh /usr/ansys_inc/v221/fluent/fluent22.1.0/bin/fluent -r22.1.0 2ddp -g -t8 -mpi=openmpi -i run.jou -wait
+  12937 vantran  41.0 /usr/ansys_inc/v221/fluent/fluent22.1.0/cortex/lnamd64/cortex.22.1.0 -f fluent -g -wait -i run.jou (fluent "2ddp -pshmem  -host -r22.1.0 -t8 -mpi=openmpi -path/usr/ansys_inc/v221/fluent -ssh")
+  12943 vantran   3.0 /bin/sh /usr/ansys_inc/v221/fluent/fluent22.1.0/bin/fluent -r22.1.0 2ddp -pshmem -host -t8 -mpi=openmpi -path/usr/ansys_inc/v221/fluent -ssh -cx ansys-fluent:41801:42835
+  13122 vantran  13.0 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_host/fluent.22.1.0 host -cx ansys-fluent:41801:42835 (list (rpsetvar (QUOTE parallel/function) "fluent 2ddp   -flux -node -r22.1.0 -t8 -pshmem -mpi=openmpi  -ssh") (rpsetvar (QUOTE parallel/rhost) "") (rpsetvar (QUOTE parallel/ruser) "") (rpsetvar (QUOTE parallel/nprocs_string) "8") (rpsetvar (QUOTE parallel/auto-spawn?) #t) (rpsetvar (QUOTE parallel/trace-level) 0) (rpsetvar (QUOTE parallel/remote-shell) 1) (rpsetvar (QUOTE parallel/path) "/usr/ansys_inc/v221/fluent") (rpsetvar (QUOTE parallel/hostsfile) "") (rpsetvar (QUOTE gpuapp/devices) ""))
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:13:44 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.2 /bin/bash /home/ansysuser/check_fluent.sh
+  12639 vantran   0.3 /bin/sh /usr/ansys_inc/v221/fluent/fluent22.1.0/bin/fluent -r22.1.0 2ddp -g -t8 -mpi=openmpi -i run.jou -wait
+  12937 vantran  27.6 /usr/ansys_inc/v221/fluent/fluent22.1.0/cortex/lnamd64/cortex.22.1.0 -f fluent -g -wait -i run.jou (fluent "2ddp -pshmem  -host -r22.1.0 -t8 -mpi=openmpi -path/usr/ansys_inc/v221/fluent -ssh")
+  12943 vantran   1.5 /bin/sh /usr/ansys_inc/v221/fluent/fluent22.1.0/bin/fluent -r22.1.0 2ddp -pshmem -host -t8 -mpi=openmpi -path/usr/ansys_inc/v221/fluent -ssh -cx ansys-fluent:41801:42835
+  13122 vantran   6.5 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_host/fluent.22.1.0 host -cx ansys-fluent:41801:42835 (list (rpsetvar (QUOTE parallel/function) "fluent 2ddp   -flux -node -r22.1.0 -t8 -pshmem -mpi=openmpi  -ssh") (rpsetvar (QUOTE parallel/rhost) "") (rpsetvar (QUOTE parallel/ruser) "") (rpsetvar (QUOTE parallel/nprocs_string) "8") (rpsetvar (QUOTE parallel/auto-spawn?) #t) (rpsetvar (QUOTE parallel/trace-level) 0) (rpsetvar (QUOTE parallel/remote-shell) 1) (rpsetvar (QUOTE parallel/path) "/usr/ansys_inc/v221/fluent") (rpsetvar (QUOTE parallel/hostsfile) "") (rpsetvar (QUOTE gpuapp/devices) ""))
+  13128 vantran  42.0 /usr/ansys_inc/v221/licensingclient/linx64/ansyscl -acl 12937.1160 -nodaemon -log /home/ansysuser/.ansys/ansyscl.ansys-fluent.12937.1160.log
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:13:45 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.2 /bin/bash /home/ansysuser/check_fluent.sh
+  12639 vantran   0.2 /bin/sh /usr/ansys_inc/v221/fluent/fluent22.1.0/bin/fluent -r22.1.0 2ddp -g -t8 -mpi=openmpi -i run.jou -wait
+  12937 vantran  21.7 /usr/ansys_inc/v221/fluent/fluent22.1.0/cortex/lnamd64/cortex.22.1.0 -f fluent -g -wait -i run.jou (fluent "2ddp -pshmem  -host -r22.1.0 -t8 -mpi=openmpi -path/usr/ansys_inc/v221/fluent -ssh")
+  12943 vantran   1.0 /bin/sh /usr/ansys_inc/v221/fluent/fluent22.1.0/bin/fluent -r22.1.0 2ddp -pshmem -host -t8 -mpi=openmpi -path/usr/ansys_inc/v221/fluent -ssh -cx ansys-fluent:41801:42835
+  13122 vantran   4.3 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_host/fluent.22.1.0 host -cx ansys-fluent:41801:42835 (list (rpsetvar (QUOTE parallel/function) "fluent 2ddp   -flux -node -r22.1.0 -t8 -pshmem -mpi=openmpi  -ssh") (rpsetvar (QUOTE parallel/rhost) "") (rpsetvar (QUOTE parallel/ruser) "") (rpsetvar (QUOTE parallel/nprocs_string) "8") (rpsetvar (QUOTE parallel/auto-spawn?) #t) (rpsetvar (QUOTE parallel/trace-level) 0) (rpsetvar (QUOTE parallel/remote-shell) 1) (rpsetvar (QUOTE parallel/path) "/usr/ansys_inc/v221/fluent") (rpsetvar (QUOTE parallel/hostsfile) "") (rpsetvar (QUOTE gpuapp/devices) ""))
+  13128 vantran  34.5 /usr/ansys_inc/v221/licensingclient/linx64/ansyscl -acl 12937.1160 -nodaemon -log /home/ansysuser/.ansys/ansyscl.ansys-fluent.12937.1160.log
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:13:46 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.2 /bin/bash /home/ansysuser/check_fluent.sh
+  12639 vantran   0.2 /bin/sh /usr/ansys_inc/v221/fluent/fluent22.1.0/bin/fluent -r22.1.0 2ddp -g -t8 -mpi=openmpi -i run.jou -wait
+  12937 vantran  17.4 /usr/ansys_inc/v221/fluent/fluent22.1.0/cortex/lnamd64/cortex.22.1.0 -f fluent -g -wait -i run.jou (fluent "2ddp -pshmem  -host -r22.1.0 -t8 -mpi=openmpi -path/usr/ansys_inc/v221/fluent -ssh")
+  12943 vantran   0.7 /bin/sh /usr/ansys_inc/v221/fluent/fluent22.1.0/bin/fluent -r22.1.0 2ddp -pshmem -host -t8 -mpi=openmpi -path/usr/ansys_inc/v221/fluent -ssh -cx ansys-fluent:41801:42835
+  13122 vantran   3.2 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_host/fluent.22.1.0 host -cx ansys-fluent:41801:42835 (list (rpsetvar (QUOTE parallel/function) "fluent 2ddp   -flux -node -r22.1.0 -t8 -pshmem -mpi=openmpi  -ssh") (rpsetvar (QUOTE parallel/rhost) "") (rpsetvar (QUOTE parallel/ruser) "") (rpsetvar (QUOTE parallel/nprocs_string) "8") (rpsetvar (QUOTE parallel/auto-spawn?) #t) (rpsetvar (QUOTE parallel/trace-level) 0) (rpsetvar (QUOTE parallel/remote-shell) 1) (rpsetvar (QUOTE parallel/path) "/usr/ansys_inc/v221/fluent") (rpsetvar (QUOTE parallel/hostsfile) "") (rpsetvar (QUOTE gpuapp/devices) ""))
+  13128 vantran  23.0 /usr/ansys_inc/v221/licensingclient/linx64/ansyscl -acl 12937.1160 -nodaemon -log /home/ansysuser/.ansys/ansyscl.ansys-fluent.12937.1160.log
+  13153 vantran   2.0 /bin/sh /usr/ansys_inc/v221/fluent/fluent22.1.0/bin/fluent -r22.1.0 2ddp -flux -node -t8 -pshmem -mpi=openmpi -ssh -mport 192.168.1.200:192.168.1.200:43259:0
+  13322 vantran   0.0 /bin/sh /usr/ansys_inc/v221/fluent/fluent22.1.0/multiport/mpi_wrapper/bin/mpirun.fl --arch=lnamd64 --ic=shmem --ic_variant=default --mpi=openmpi --np=8 --rsh=ssh --prefix=/usr/ansys_inc/v221/fluent/fluent22.1.0/multiport /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13351 vantran   2.0 /usr/ansys_inc/v221/fluent/fluent22.1.0/multiport/mpi/lnamd64/openmpi/bin/mpirun --map-by numa --mca btl self,vader,tcp --mca pml ^ucx --mca btl_sm_use_knem 0 --prefix /usr/ansys_inc/v221/fluent/fluent22.1.0/multiport/mpi/lnamd64/openmpi -x LD_LIBRARY_PATH --np 8 --host ansys-fluent:8 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13355 vantran   7.0 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13356 vantran   7.0 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13357 vantran  13.0 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13358 vantran   7.0 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13359 vantran   9.0 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13360 vantran   7.0 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13361 vantran   6.0 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13362 vantran   8.0 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:13:47 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.1 /bin/bash /home/ansysuser/check_fluent.sh
+  12639 vantran   0.1 /bin/sh /usr/ansys_inc/v221/fluent/fluent22.1.0/bin/fluent -r22.1.0 2ddp -g -t8 -mpi=openmpi -i run.jou -wait
+  12937 vantran  14.5 /usr/ansys_inc/v221/fluent/fluent22.1.0/cortex/lnamd64/cortex.22.1.0 -f fluent -g -wait -i run.jou (fluent "2ddp -pshmem  -host -r22.1.0 -t8 -mpi=openmpi -path/usr/ansys_inc/v221/fluent -ssh")
+  12943 vantran   0.6 /bin/sh /usr/ansys_inc/v221/fluent/fluent22.1.0/bin/fluent -r22.1.0 2ddp -pshmem -host -t8 -mpi=openmpi -path/usr/ansys_inc/v221/fluent -ssh -cx ansys-fluent:41801:42835
+  13122 vantran   2.6 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_host/fluent.22.1.0 host -cx ansys-fluent:41801:42835 (list (rpsetvar (QUOTE parallel/function) "fluent 2ddp   -flux -node -r22.1.0 -t8 -pshmem -mpi=openmpi  -ssh") (rpsetvar (QUOTE parallel/rhost) "") (rpsetvar (QUOTE parallel/ruser) "") (rpsetvar (QUOTE parallel/nprocs_string) "8") (rpsetvar (QUOTE parallel/auto-spawn?) #t) (rpsetvar (QUOTE parallel/trace-level) 0) (rpsetvar (QUOTE parallel/remote-shell) 1) (rpsetvar (QUOTE parallel/path) "/usr/ansys_inc/v221/fluent") (rpsetvar (QUOTE parallel/hostsfile) "") (rpsetvar (QUOTE gpuapp/devices) ""))
+  13128 vantran  17.2 /usr/ansys_inc/v221/licensingclient/linx64/ansyscl -acl 12937.1160 -nodaemon -log /home/ansysuser/.ansys/ansyscl.ansys-fluent.12937.1160.log
+  13153 vantran   1.0 /bin/sh /usr/ansys_inc/v221/fluent/fluent22.1.0/bin/fluent -r22.1.0 2ddp -flux -node -t8 -pshmem -mpi=openmpi -ssh -mport 192.168.1.200:192.168.1.200:43259:0
+  13322 vantran   0.0 /bin/sh /usr/ansys_inc/v221/fluent/fluent22.1.0/multiport/mpi_wrapper/bin/mpirun.fl --arch=lnamd64 --ic=shmem --ic_variant=default --mpi=openmpi --np=8 --rsh=ssh --prefix=/usr/ansys_inc/v221/fluent/fluent22.1.0/multiport /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13351 vantran   1.0 /usr/ansys_inc/v221/fluent/fluent22.1.0/multiport/mpi/lnamd64/openmpi/bin/mpirun --map-by numa --mca btl self,vader,tcp --mca pml ^ucx --mca btl_sm_use_knem 0 --prefix /usr/ansys_inc/v221/fluent/fluent22.1.0/multiport/mpi/lnamd64/openmpi -x LD_LIBRARY_PATH --np 8 --host ansys-fluent:8 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13355 vantran   3.5 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13356 vantran   3.5 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13357 vantran   9.0 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13358 vantran   3.5 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13359 vantran   4.5 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13360 vantran   3.5 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13361 vantran   3.0 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13362 vantran   4.0 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:13:48 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.1 /bin/bash /home/ansysuser/check_fluent.sh
+  12639 vantran   0.1 /bin/sh /usr/ansys_inc/v221/fluent/fluent22.1.0/bin/fluent -r22.1.0 2ddp -g -t8 -mpi=openmpi -i run.jou -wait
+  12937 vantran  12.4 /usr/ansys_inc/v221/fluent/fluent22.1.0/cortex/lnamd64/cortex.22.1.0 -f fluent -g -wait -i run.jou (fluent "2ddp -pshmem  -host -r22.1.0 -t8 -mpi=openmpi -path/usr/ansys_inc/v221/fluent -ssh")
+  12943 vantran   0.5 /bin/sh /usr/ansys_inc/v221/fluent/fluent22.1.0/bin/fluent -r22.1.0 2ddp -pshmem -host -t8 -mpi=openmpi -path/usr/ansys_inc/v221/fluent -ssh -cx ansys-fluent:41801:42835
+  13122 vantran   2.1 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_host/fluent.22.1.0 host -cx ansys-fluent:41801:42835 (list (rpsetvar (QUOTE parallel/function) "fluent 2ddp   -flux -node -r22.1.0 -t8 -pshmem -mpi=openmpi  -ssh") (rpsetvar (QUOTE parallel/rhost) "") (rpsetvar (QUOTE parallel/ruser) "") (rpsetvar (QUOTE parallel/nprocs_string) "8") (rpsetvar (QUOTE parallel/auto-spawn?) #t) (rpsetvar (QUOTE parallel/trace-level) 0) (rpsetvar (QUOTE parallel/remote-shell) 1) (rpsetvar (QUOTE parallel/path) "/usr/ansys_inc/v221/fluent") (rpsetvar (QUOTE parallel/hostsfile) "") (rpsetvar (QUOTE gpuapp/devices) ""))
+  13128 vantran  13.8 /usr/ansys_inc/v221/licensingclient/linx64/ansyscl -acl 12937.1160 -nodaemon -log /home/ansysuser/.ansys/ansyscl.ansys-fluent.12937.1160.log
+  13153 vantran   0.6 /bin/sh /usr/ansys_inc/v221/fluent/fluent22.1.0/bin/fluent -r22.1.0 2ddp -flux -node -t8 -pshmem -mpi=openmpi -ssh -mport 192.168.1.200:192.168.1.200:43259:0
+  13322 vantran   0.0 /bin/sh /usr/ansys_inc/v221/fluent/fluent22.1.0/multiport/mpi_wrapper/bin/mpirun.fl --arch=lnamd64 --ic=shmem --ic_variant=default --mpi=openmpi --np=8 --rsh=ssh --prefix=/usr/ansys_inc/v221/fluent/fluent22.1.0/multiport /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13351 vantran   0.6 /usr/ansys_inc/v221/fluent/fluent22.1.0/multiport/mpi/lnamd64/openmpi/bin/mpirun --map-by numa --mca btl self,vader,tcp --mca pml ^ucx --mca btl_sm_use_knem 0 --prefix /usr/ansys_inc/v221/fluent/fluent22.1.0/multiport/mpi/lnamd64/openmpi -x LD_LIBRARY_PATH --np 8 --host ansys-fluent:8 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13355 vantran   2.3 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13356 vantran   2.3 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13357 vantran   7.6 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13358 vantran   2.3 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13359 vantran   3.0 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13360 vantran   2.3 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13361 vantran   2.0 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13362 vantran   2.6 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:13:49 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.1 /bin/bash /home/ansysuser/check_fluent.sh
+  12639 vantran   0.1 /bin/sh /usr/ansys_inc/v221/fluent/fluent22.1.0/bin/fluent -r22.1.0 2ddp -g -t8 -mpi=openmpi -i run.jou -wait
+  12937 vantran  10.8 /usr/ansys_inc/v221/fluent/fluent22.1.0/cortex/lnamd64/cortex.22.1.0 -f fluent -g -wait -i run.jou (fluent "2ddp -pshmem  -host -r22.1.0 -t8 -mpi=openmpi -path/usr/ansys_inc/v221/fluent -ssh")
+  12943 vantran   0.4 /bin/sh /usr/ansys_inc/v221/fluent/fluent22.1.0/bin/fluent -r22.1.0 2ddp -pshmem -host -t8 -mpi=openmpi -path/usr/ansys_inc/v221/fluent -ssh -cx ansys-fluent:41801:42835
+  13122 vantran   1.8 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_host/fluent.22.1.0 host -cx ansys-fluent:41801:42835 (list (rpsetvar (QUOTE parallel/function) "fluent 2ddp   -flux -node -r22.1.0 -t8 -pshmem -mpi=openmpi  -ssh") (rpsetvar (QUOTE parallel/rhost) "") (rpsetvar (QUOTE parallel/ruser) "") (rpsetvar (QUOTE parallel/nprocs_string) "8") (rpsetvar (QUOTE parallel/auto-spawn?) #t) (rpsetvar (QUOTE parallel/trace-level) 0) (rpsetvar (QUOTE parallel/remote-shell) 1) (rpsetvar (QUOTE parallel/path) "/usr/ansys_inc/v221/fluent") (rpsetvar (QUOTE parallel/hostsfile) "") (rpsetvar (QUOTE gpuapp/devices) ""))
+  13128 vantran  11.5 /usr/ansys_inc/v221/licensingclient/linx64/ansyscl -acl 12937.1160 -nodaemon -log /home/ansysuser/.ansys/ansyscl.ansys-fluent.12937.1160.log
+  13153 vantran   0.5 /bin/sh /usr/ansys_inc/v221/fluent/fluent22.1.0/bin/fluent -r22.1.0 2ddp -flux -node -t8 -pshmem -mpi=openmpi -ssh -mport 192.168.1.200:192.168.1.200:43259:0
+  13322 vantran   0.0 /bin/sh /usr/ansys_inc/v221/fluent/fluent22.1.0/multiport/mpi_wrapper/bin/mpirun.fl --arch=lnamd64 --ic=shmem --ic_variant=default --mpi=openmpi --np=8 --rsh=ssh --prefix=/usr/ansys_inc/v221/fluent/fluent22.1.0/multiport /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13351 vantran   0.5 /usr/ansys_inc/v221/fluent/fluent22.1.0/multiport/mpi/lnamd64/openmpi/bin/mpirun --map-by numa --mca btl self,vader,tcp --mca pml ^ucx --mca btl_sm_use_knem 0 --prefix /usr/ansys_inc/v221/fluent/fluent22.1.0/multiport/mpi/lnamd64/openmpi -x LD_LIBRARY_PATH --np 8 --host ansys-fluent:8 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13355 vantran   1.7 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13356 vantran   1.7 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13357 vantran   7.2 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13358 vantran   1.7 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13359 vantran   2.2 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13360 vantran   1.7 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13361 vantran   1.5 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13362 vantran   2.0 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:13:50 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.2 /bin/bash /home/ansysuser/check_fluent.sh
+  12639 vantran   0.1 /bin/sh /usr/ansys_inc/v221/fluent/fluent22.1.0/bin/fluent -r22.1.0 2ddp -g -t8 -mpi=openmpi -i run.jou -wait
+  12937 vantran   9.6 /usr/ansys_inc/v221/fluent/fluent22.1.0/cortex/lnamd64/cortex.22.1.0 -f fluent -g -wait -i run.jou (fluent "2ddp -pshmem  -host -r22.1.0 -t8 -mpi=openmpi -path/usr/ansys_inc/v221/fluent -ssh")
+  12943 vantran   0.3 /bin/sh /usr/ansys_inc/v221/fluent/fluent22.1.0/bin/fluent -r22.1.0 2ddp -pshmem -host -t8 -mpi=openmpi -path/usr/ansys_inc/v221/fluent -ssh -cx ansys-fluent:41801:42835
+  13122 vantran   1.6 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_host/fluent.22.1.0 host -cx ansys-fluent:41801:42835 (list (rpsetvar (QUOTE parallel/function) "fluent 2ddp   -flux -node -r22.1.0 -t8 -pshmem -mpi=openmpi  -ssh") (rpsetvar (QUOTE parallel/rhost) "") (rpsetvar (QUOTE parallel/ruser) "") (rpsetvar (QUOTE parallel/nprocs_string) "8") (rpsetvar (QUOTE parallel/auto-spawn?) #t) (rpsetvar (QUOTE parallel/trace-level) 0) (rpsetvar (QUOTE parallel/remote-shell) 1) (rpsetvar (QUOTE parallel/path) "/usr/ansys_inc/v221/fluent") (rpsetvar (QUOTE parallel/hostsfile) "") (rpsetvar (QUOTE gpuapp/devices) ""))
+  13128 vantran  10.1 /usr/ansys_inc/v221/licensingclient/linx64/ansyscl -acl 12937.1160 -nodaemon -log /home/ansysuser/.ansys/ansyscl.ansys-fluent.12937.1160.log
+  13153 vantran   0.4 /bin/sh /usr/ansys_inc/v221/fluent/fluent22.1.0/bin/fluent -r22.1.0 2ddp -flux -node -t8 -pshmem -mpi=openmpi -ssh -mport 192.168.1.200:192.168.1.200:43259:0
+  13322 vantran   0.0 /bin/sh /usr/ansys_inc/v221/fluent/fluent22.1.0/multiport/mpi_wrapper/bin/mpirun.fl --arch=lnamd64 --ic=shmem --ic_variant=default --mpi=openmpi --np=8 --rsh=ssh --prefix=/usr/ansys_inc/v221/fluent/fluent22.1.0/multiport /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13351 vantran   0.4 /usr/ansys_inc/v221/fluent/fluent22.1.0/multiport/mpi/lnamd64/openmpi/bin/mpirun --map-by numa --mca btl self,vader,tcp --mca pml ^ucx --mca btl_sm_use_knem 0 --prefix /usr/ansys_inc/v221/fluent/fluent22.1.0/multiport/mpi/lnamd64/openmpi -x LD_LIBRARY_PATH --np 8 --host ansys-fluent:8 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13355 vantran   1.4 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13356 vantran   1.4 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13357 vantran   6.8 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13358 vantran   1.4 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13359 vantran   1.8 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13360 vantran   1.4 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13361 vantran   1.2 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13362 vantran   1.6 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:13:51 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.2 /bin/bash /home/ansysuser/check_fluent.sh
+  12639 vantran   0.1 /bin/sh /usr/ansys_inc/v221/fluent/fluent22.1.0/bin/fluent -r22.1.0 2ddp -g -t8 -mpi=openmpi -i run.jou -wait
+  12937 vantran   8.8 /usr/ansys_inc/v221/fluent/fluent22.1.0/cortex/lnamd64/cortex.22.1.0 -f fluent -g -wait -i run.jou (fluent "2ddp -pshmem  -host -r22.1.0 -t8 -mpi=openmpi -path/usr/ansys_inc/v221/fluent -ssh")
+  12943 vantran   0.3 /bin/sh /usr/ansys_inc/v221/fluent/fluent22.1.0/bin/fluent -r22.1.0 2ddp -pshmem -host -t8 -mpi=openmpi -path/usr/ansys_inc/v221/fluent -ssh -cx ansys-fluent:41801:42835
+  13122 vantran   1.6 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_host/fluent.22.1.0 host -cx ansys-fluent:41801:42835 (list (rpsetvar (QUOTE parallel/function) "fluent 2ddp   -flux -node -r22.1.0 -t8 -pshmem -mpi=openmpi  -ssh") (rpsetvar (QUOTE parallel/rhost) "") (rpsetvar (QUOTE parallel/ruser) "") (rpsetvar (QUOTE parallel/nprocs_string) "8") (rpsetvar (QUOTE parallel/auto-spawn?) #t) (rpsetvar (QUOTE parallel/trace-level) 0) (rpsetvar (QUOTE parallel/remote-shell) 1) (rpsetvar (QUOTE parallel/path) "/usr/ansys_inc/v221/fluent") (rpsetvar (QUOTE parallel/hostsfile) "") (rpsetvar (QUOTE gpuapp/devices) ""))
+  13128 vantran  13.8 /usr/ansys_inc/v221/licensingclient/linx64/ansyscl -acl 12937.1160 -nodaemon -log /home/ansysuser/.ansys/ansyscl.ansys-fluent.12937.1160.log
+  13153 vantran   0.3 /bin/sh /usr/ansys_inc/v221/fluent/fluent22.1.0/bin/fluent -r22.1.0 2ddp -flux -node -t8 -pshmem -mpi=openmpi -ssh -mport 192.168.1.200:192.168.1.200:43259:0
+  13322 vantran   0.0 /bin/sh /usr/ansys_inc/v221/fluent/fluent22.1.0/multiport/mpi_wrapper/bin/mpirun.fl --arch=lnamd64 --ic=shmem --ic_variant=default --mpi=openmpi --np=8 --rsh=ssh --prefix=/usr/ansys_inc/v221/fluent/fluent22.1.0/multiport /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13351 vantran   0.6 /usr/ansys_inc/v221/fluent/fluent22.1.0/multiport/mpi/lnamd64/openmpi/bin/mpirun --map-by numa --mca btl self,vader,tcp --mca pml ^ucx --mca btl_sm_use_knem 0 --prefix /usr/ansys_inc/v221/fluent/fluent22.1.0/multiport/mpi/lnamd64/openmpi -x LD_LIBRARY_PATH --np 8 --host ansys-fluent:8 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13355 vantran   3.0 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13356 vantran  10.3 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13357 vantran  14.6 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13358 vantran  10.8 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13359 vantran  11.3 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13360 vantran  10.8 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13361 vantran  10.8 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13362 vantran  11.1 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:13:52 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.1 /bin/bash /home/ansysuser/check_fluent.sh
+  12639 vantran   0.0 /bin/sh /usr/ansys_inc/v221/fluent/fluent22.1.0/bin/fluent -r22.1.0 2ddp -g -t8 -mpi=openmpi -i run.jou -wait
+  12937 vantran  15.3 /usr/ansys_inc/v221/fluent/fluent22.1.0/cortex/lnamd64/cortex.22.1.0 -f fluent -g -wait -i run.jou (fluent "2ddp -pshmem  -host -r22.1.0 -t8 -mpi=openmpi -path/usr/ansys_inc/v221/fluent -ssh")
+  12943 vantran   0.3 /bin/sh /usr/ansys_inc/v221/fluent/fluent22.1.0/bin/fluent -r22.1.0 2ddp -pshmem -host -t8 -mpi=openmpi -path/usr/ansys_inc/v221/fluent -ssh -cx ansys-fluent:41801:42835
+  13122 vantran   2.3 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_host/fluent.22.1.0 host -cx ansys-fluent:41801:42835 (list (rpsetvar (QUOTE parallel/function) "fluent 2ddp   -flux -node -r22.1.0 -t8 -pshmem -mpi=openmpi  -ssh") (rpsetvar (QUOTE parallel/rhost) "") (rpsetvar (QUOTE parallel/ruser) "") (rpsetvar (QUOTE parallel/nprocs_string) "8") (rpsetvar (QUOTE parallel/auto-spawn?) #t) (rpsetvar (QUOTE parallel/trace-level) 0) (rpsetvar (QUOTE parallel/remote-shell) 1) (rpsetvar (QUOTE parallel/path) "/usr/ansys_inc/v221/fluent") (rpsetvar (QUOTE parallel/hostsfile) "") (rpsetvar (QUOTE gpuapp/devices) ""))
+  13128 vantran  13.2 /usr/ansys_inc/v221/licensingclient/linx64/ansyscl -acl 12937.1160 -nodaemon -log /home/ansysuser/.ansys/ansyscl.ansys-fluent.12937.1160.log
+  13153 vantran   0.2 /bin/sh /usr/ansys_inc/v221/fluent/fluent22.1.0/bin/fluent -r22.1.0 2ddp -flux -node -t8 -pshmem -mpi=openmpi -ssh -mport 192.168.1.200:192.168.1.200:43259:0
+  13322 vantran   0.0 /bin/sh /usr/ansys_inc/v221/fluent/fluent22.1.0/multiport/mpi_wrapper/bin/mpirun.fl --arch=lnamd64 --ic=shmem --ic_variant=default --mpi=openmpi --np=8 --rsh=ssh --prefix=/usr/ansys_inc/v221/fluent/fluent22.1.0/multiport /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13351 vantran   0.5 /usr/ansys_inc/v221/fluent/fluent22.1.0/multiport/mpi/lnamd64/openmpi/bin/mpirun --map-by numa --mca btl self,vader,tcp --mca pml ^ucx --mca btl_sm_use_knem 0 --prefix /usr/ansys_inc/v221/fluent/fluent22.1.0/multiport/mpi/lnamd64/openmpi -x LD_LIBRARY_PATH --np 8 --host ansys-fluent:8 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13355 vantran   3.0 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13356 vantran  23.4 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13357 vantran  27.2 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13358 vantran  23.8 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13359 vantran  24.2 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13360 vantran  24.0 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13361 vantran  23.7 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13362 vantran  24.0 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:13:53 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.1 /bin/bash /home/ansysuser/check_fluent.sh
+  12639 vantran   0.0 /bin/sh /usr/ansys_inc/v221/fluent/fluent22.1.0/bin/fluent -r22.1.0 2ddp -g -t8 -mpi=openmpi -i run.jou -wait
+  12937 vantran  16.1 /usr/ansys_inc/v221/fluent/fluent22.1.0/cortex/lnamd64/cortex.22.1.0 -f fluent -g -wait -i run.jou (fluent "2ddp -pshmem  -host -r22.1.0 -t8 -mpi=openmpi -path/usr/ansys_inc/v221/fluent -ssh")
+  12943 vantran   0.2 /bin/sh /usr/ansys_inc/v221/fluent/fluent22.1.0/bin/fluent -r22.1.0 2ddp -pshmem -host -t8 -mpi=openmpi -path/usr/ansys_inc/v221/fluent -ssh -cx ansys-fluent:41801:42835
+  13122 vantran   6.1 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_host/fluent.22.1.0 host -cx ansys-fluent:41801:42835 (list (rpsetvar (QUOTE parallel/function) "fluent 2ddp   -flux -node -r22.1.0 -t8 -pshmem -mpi=openmpi  -ssh") (rpsetvar (QUOTE parallel/rhost) "") (rpsetvar (QUOTE parallel/ruser) "") (rpsetvar (QUOTE parallel/nprocs_string) "8") (rpsetvar (QUOTE parallel/auto-spawn?) #t) (rpsetvar (QUOTE parallel/trace-level) 0) (rpsetvar (QUOTE parallel/remote-shell) 1) (rpsetvar (QUOTE parallel/path) "/usr/ansys_inc/v221/fluent") (rpsetvar (QUOTE parallel/hostsfile) "") (rpsetvar (QUOTE gpuapp/devices) ""))
+  13128 vantran  11.9 /usr/ansys_inc/v221/licensingclient/linx64/ansyscl -acl 12937.1160 -nodaemon -log /home/ansysuser/.ansys/ansyscl.ansys-fluent.12937.1160.log
+  13153 vantran   0.2 /bin/sh /usr/ansys_inc/v221/fluent/fluent22.1.0/bin/fluent -r22.1.0 2ddp -flux -node -t8 -pshmem -mpi=openmpi -ssh -mport 192.168.1.200:192.168.1.200:43259:0
+  13322 vantran   0.0 /bin/sh /usr/ansys_inc/v221/fluent/fluent22.1.0/multiport/mpi_wrapper/bin/mpirun.fl --arch=lnamd64 --ic=shmem --ic_variant=default --mpi=openmpi --np=8 --rsh=ssh --prefix=/usr/ansys_inc/v221/fluent/fluent22.1.0/multiport /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13351 vantran   0.5 /usr/ansys_inc/v221/fluent/fluent22.1.0/multiport/mpi/lnamd64/openmpi/bin/mpirun --map-by numa --mca btl self,vader,tcp --mca pml ^ucx --mca btl_sm_use_knem 0 --prefix /usr/ansys_inc/v221/fluent/fluent22.1.0/multiport/mpi/lnamd64/openmpi -x LD_LIBRARY_PATH --np 8 --host ansys-fluent:8 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13355 vantran   5.0 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13356 vantran  33.2 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13357 vantran  36.6 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13358 vantran  33.7 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13359 vantran  33.8 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13360 vantran  33.7 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13361 vantran  33.6 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13362 vantran  33.7 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:13:54 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.1 /bin/bash /home/ansysuser/check_fluent.sh
+  12639 vantran   0.0 /bin/sh /usr/ansys_inc/v221/fluent/fluent22.1.0/bin/fluent -r22.1.0 2ddp -g -t8 -mpi=openmpi -i run.jou -wait
+  12937 vantran  20.6 /usr/ansys_inc/v221/fluent/fluent22.1.0/cortex/lnamd64/cortex.22.1.0 -f fluent -g -wait -i run.jou (fluent "2ddp -pshmem  -host -r22.1.0 -t8 -mpi=openmpi -path/usr/ansys_inc/v221/fluent -ssh")
+  12943 vantran   0.2 /bin/sh /usr/ansys_inc/v221/fluent/fluent22.1.0/bin/fluent -r22.1.0 2ddp -pshmem -host -t8 -mpi=openmpi -path/usr/ansys_inc/v221/fluent -ssh -cx ansys-fluent:41801:42835
+  13122 vantran   7.2 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_host/fluent.22.1.0 host -cx ansys-fluent:41801:42835 (list (rpsetvar (QUOTE parallel/function) "fluent 2ddp   -flux -node -r22.1.0 -t8 -pshmem -mpi=openmpi  -ssh") (rpsetvar (QUOTE parallel/rhost) "") (rpsetvar (QUOTE parallel/ruser) "") (rpsetvar (QUOTE parallel/nprocs_string) "8") (rpsetvar (QUOTE parallel/auto-spawn?) #t) (rpsetvar (QUOTE parallel/trace-level) 0) (rpsetvar (QUOTE parallel/remote-shell) 1) (rpsetvar (QUOTE parallel/path) "/usr/ansys_inc/v221/fluent") (rpsetvar (QUOTE parallel/hostsfile) "") (rpsetvar (QUOTE gpuapp/devices) ""))
+  13128 vantran  10.8 /usr/ansys_inc/v221/licensingclient/linx64/ansyscl -acl 12937.1160 -nodaemon -log /home/ansysuser/.ansys/ansyscl.ansys-fluent.12937.1160.log
+  13153 vantran   0.2 /bin/sh /usr/ansys_inc/v221/fluent/fluent22.1.0/bin/fluent -r22.1.0 2ddp -flux -node -t8 -pshmem -mpi=openmpi -ssh -mport 192.168.1.200:192.168.1.200:43259:0
+  13322 vantran   0.0 /bin/sh /usr/ansys_inc/v221/fluent/fluent22.1.0/multiport/mpi_wrapper/bin/mpirun.fl --arch=lnamd64 --ic=shmem --ic_variant=default --mpi=openmpi --np=8 --rsh=ssh --prefix=/usr/ansys_inc/v221/fluent/fluent22.1.0/multiport /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13351 vantran   0.4 /usr/ansys_inc/v221/fluent/fluent22.1.0/multiport/mpi/lnamd64/openmpi/bin/mpirun --map-by numa --mca btl self,vader,tcp --mca pml ^ucx --mca btl_sm_use_knem 0 --prefix /usr/ansys_inc/v221/fluent/fluent22.1.0/multiport/mpi/lnamd64/openmpi -x LD_LIBRARY_PATH --np 8 --host ansys-fluent:8 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13355 vantran   4.8 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13356 vantran  40.8 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13357 vantran  43.7 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13358 vantran  41.2 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13359 vantran  41.4 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13360 vantran  41.2 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13361 vantran  41.2 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13362 vantran  41.2 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:13:55 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.1 /bin/bash /home/ansysuser/check_fluent.sh
+  12639 vantran   0.0 /bin/sh /usr/ansys_inc/v221/fluent/fluent22.1.0/bin/fluent -r22.1.0 2ddp -g -t8 -mpi=openmpi -i run.jou -wait
+  12937 vantran  23.4 /usr/ansys_inc/v221/fluent/fluent22.1.0/cortex/lnamd64/cortex.22.1.0 -f fluent -g -wait -i run.jou (fluent "2ddp -pshmem  -host -r22.1.0 -t8 -mpi=openmpi -path/usr/ansys_inc/v221/fluent -ssh")
+  12943 vantran   0.2 /bin/sh /usr/ansys_inc/v221/fluent/fluent22.1.0/bin/fluent -r22.1.0 2ddp -pshmem -host -t8 -mpi=openmpi -path/usr/ansys_inc/v221/fluent -ssh -cx ansys-fluent:41801:42835
+  13122 vantran   8.8 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_host/fluent.22.1.0 host -cx ansys-fluent:41801:42835 (list (rpsetvar (QUOTE parallel/function) "fluent 2ddp   -flux -node -r22.1.0 -t8 -pshmem -mpi=openmpi  -ssh") (rpsetvar (QUOTE parallel/rhost) "") (rpsetvar (QUOTE parallel/ruser) "") (rpsetvar (QUOTE parallel/nprocs_string) "8") (rpsetvar (QUOTE parallel/auto-spawn?) #t) (rpsetvar (QUOTE parallel/trace-level) 0) (rpsetvar (QUOTE parallel/remote-shell) 1) (rpsetvar (QUOTE parallel/path) "/usr/ansys_inc/v221/fluent") (rpsetvar (QUOTE parallel/hostsfile) "") (rpsetvar (QUOTE gpuapp/devices) ""))
+  13128 vantran   9.9 /usr/ansys_inc/v221/licensingclient/linx64/ansyscl -acl 12937.1160 -nodaemon -log /home/ansysuser/.ansys/ansyscl.ansys-fluent.12937.1160.log
+  13153 vantran   0.2 /bin/sh /usr/ansys_inc/v221/fluent/fluent22.1.0/bin/fluent -r22.1.0 2ddp -flux -node -t8 -pshmem -mpi=openmpi -ssh -mport 192.168.1.200:192.168.1.200:43259:0
+  13322 vantran   0.0 /bin/sh /usr/ansys_inc/v221/fluent/fluent22.1.0/multiport/mpi_wrapper/bin/mpirun.fl --arch=lnamd64 --ic=shmem --ic_variant=default --mpi=openmpi --np=8 --rsh=ssh --prefix=/usr/ansys_inc/v221/fluent/fluent22.1.0/multiport /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13351 vantran   0.4 /usr/ansys_inc/v221/fluent/fluent22.1.0/multiport/mpi/lnamd64/openmpi/bin/mpirun --map-by numa --mca btl self,vader,tcp --mca pml ^ucx --mca btl_sm_use_knem 0 --prefix /usr/ansys_inc/v221/fluent/fluent22.1.0/multiport/mpi/lnamd64/openmpi -x LD_LIBRARY_PATH --np 8 --host ansys-fluent:8 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13355 vantran   5.5 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13356 vantran  47.0 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13357 vantran  49.6 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13358 vantran  47.3 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13359 vantran  47.5 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13360 vantran  47.3 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13361 vantran  47.2 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13362 vantran  47.3 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:13:56 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.1 /bin/bash /home/ansysuser/check_fluent.sh
+  12639 vantran   0.0 /bin/sh /usr/ansys_inc/v221/fluent/fluent22.1.0/bin/fluent -r22.1.0 2ddp -g -t8 -mpi=openmpi -i run.jou -wait
+  12937 vantran  23.0 /usr/ansys_inc/v221/fluent/fluent22.1.0/cortex/lnamd64/cortex.22.1.0 -f fluent -g -wait -i run.jou (fluent "2ddp -pshmem  -host -r22.1.0 -t8 -mpi=openmpi -path/usr/ansys_inc/v221/fluent -ssh")
+  12943 vantran   0.2 /bin/sh /usr/ansys_inc/v221/fluent/fluent22.1.0/bin/fluent -r22.1.0 2ddp -pshmem -host -t8 -mpi=openmpi -path/usr/ansys_inc/v221/fluent -ssh -cx ansys-fluent:41801:42835
+  13122 vantran  11.0 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_host/fluent.22.1.0 host -cx ansys-fluent:41801:42835 (list (rpsetvar (QUOTE parallel/function) "fluent 2ddp   -flux -node -r22.1.0 -t8 -pshmem -mpi=openmpi  -ssh") (rpsetvar (QUOTE parallel/rhost) "") (rpsetvar (QUOTE parallel/ruser) "") (rpsetvar (QUOTE parallel/nprocs_string) "8") (rpsetvar (QUOTE parallel/auto-spawn?) #t) (rpsetvar (QUOTE parallel/trace-level) 0) (rpsetvar (QUOTE parallel/remote-shell) 1) (rpsetvar (QUOTE parallel/path) "/usr/ansys_inc/v221/fluent") (rpsetvar (QUOTE parallel/hostsfile) "") (rpsetvar (QUOTE gpuapp/devices) ""))
+  13128 vantran   9.1 /usr/ansys_inc/v221/licensingclient/linx64/ansyscl -acl 12937.1160 -nodaemon -log /home/ansysuser/.ansys/ansyscl.ansys-fluent.12937.1160.log
+  13153 vantran   0.1 /bin/sh /usr/ansys_inc/v221/fluent/fluent22.1.0/bin/fluent -r22.1.0 2ddp -flux -node -t8 -pshmem -mpi=openmpi -ssh -mport 192.168.1.200:192.168.1.200:43259:0
+  13322 vantran   0.0 /bin/sh /usr/ansys_inc/v221/fluent/fluent22.1.0/multiport/mpi_wrapper/bin/mpirun.fl --arch=lnamd64 --ic=shmem --ic_variant=default --mpi=openmpi --np=8 --rsh=ssh --prefix=/usr/ansys_inc/v221/fluent/fluent22.1.0/multiport /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13351 vantran   0.3 /usr/ansys_inc/v221/fluent/fluent22.1.0/multiport/mpi/lnamd64/openmpi/bin/mpirun --map-by numa --mca btl self,vader,tcp --mca pml ^ucx --mca btl_sm_use_knem 0 --prefix /usr/ansys_inc/v221/fluent/fluent22.1.0/multiport/mpi/lnamd64/openmpi -x LD_LIBRARY_PATH --np 8 --host ansys-fluent:8 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13355 vantran   9.9 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13356 vantran  51.9 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13357 vantran  54.3 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13358 vantran  52.1 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13359 vantran  52.3 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13360 vantran  52.1 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13361 vantran  52.0 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13362 vantran  52.2 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:13:57 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.1 /bin/bash /home/ansysuser/check_fluent.sh
+  12639 vantran   0.0 /bin/sh /usr/ansys_inc/v221/fluent/fluent22.1.0/bin/fluent -r22.1.0 2ddp -g -t8 -mpi=openmpi -i run.jou -wait
+  12937 vantran  23.3 /usr/ansys_inc/v221/fluent/fluent22.1.0/cortex/lnamd64/cortex.22.1.0 -f fluent -g -wait -i run.jou (fluent "2ddp -pshmem  -host -r22.1.0 -t8 -mpi=openmpi -path/usr/ansys_inc/v221/fluent -ssh")
+  12943 vantran   0.2 /bin/sh /usr/ansys_inc/v221/fluent/fluent22.1.0/bin/fluent -r22.1.0 2ddp -pshmem -host -t8 -mpi=openmpi -path/usr/ansys_inc/v221/fluent -ssh -cx ansys-fluent:41801:42835
+  13122 vantran  12.0 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_host/fluent.22.1.0 host -cx ansys-fluent:41801:42835 (list (rpsetvar (QUOTE parallel/function) "fluent 2ddp   -flux -node -r22.1.0 -t8 -pshmem -mpi=openmpi  -ssh") (rpsetvar (QUOTE parallel/rhost) "") (rpsetvar (QUOTE parallel/ruser) "") (rpsetvar (QUOTE parallel/nprocs_string) "8") (rpsetvar (QUOTE parallel/auto-spawn?) #t) (rpsetvar (QUOTE parallel/trace-level) 0) (rpsetvar (QUOTE parallel/remote-shell) 1) (rpsetvar (QUOTE parallel/path) "/usr/ansys_inc/v221/fluent") (rpsetvar (QUOTE parallel/hostsfile) "") (rpsetvar (QUOTE gpuapp/devices) ""))
+  13128 vantran   8.5 /usr/ansys_inc/v221/licensingclient/linx64/ansyscl -acl 12937.1160 -nodaemon -log /home/ansysuser/.ansys/ansyscl.ansys-fluent.12937.1160.log
+  13153 vantran   0.1 /bin/sh /usr/ansys_inc/v221/fluent/fluent22.1.0/bin/fluent -r22.1.0 2ddp -flux -node -t8 -pshmem -mpi=openmpi -ssh -mport 192.168.1.200:192.168.1.200:43259:0
+  13322 vantran   0.0 /bin/sh /usr/ansys_inc/v221/fluent/fluent22.1.0/multiport/mpi_wrapper/bin/mpirun.fl --arch=lnamd64 --ic=shmem --ic_variant=default --mpi=openmpi --np=8 --rsh=ssh --prefix=/usr/ansys_inc/v221/fluent/fluent22.1.0/multiport /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13351 vantran   0.3 /usr/ansys_inc/v221/fluent/fluent22.1.0/multiport/mpi/lnamd64/openmpi/bin/mpirun --map-by numa --mca btl self,vader,tcp --mca pml ^ucx --mca btl_sm_use_knem 0 --prefix /usr/ansys_inc/v221/fluent/fluent22.1.0/multiport/mpi/lnamd64/openmpi -x LD_LIBRARY_PATH --np 8 --host ansys-fluent:8 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13355 vantran  11.0 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13356 vantran  56.5 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13357 vantran  58.8 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13358 vantran  56.8 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13359 vantran  56.9 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13360 vantran  56.8 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13361 vantran  56.7 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+  13362 vantran  56.8 /usr/ansys_inc/v221/fluent/fluent22.1.0/lnamd64/2ddp_node/fluent_mpi.22.1.0 node -mpiw openmpi -pic shmem -mport 192.168.1.200:192.168.1.200:43259:0
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:13:58 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.1 /bin/bash /home/ansysuser/check_fluent.sh
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:13:59 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.1 /bin/bash /home/ansysuser/check_fluent.sh
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:14:00 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.1 /bin/bash /home/ansysuser/check_fluent.sh
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:14:01 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.1 /bin/bash /home/ansysuser/check_fluent.sh
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:14:02 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.1 /bin/bash /home/ansysuser/check_fluent.sh
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:14:03 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.1 /bin/bash /home/ansysuser/check_fluent.sh
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:14:04 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.1 /bin/bash /home/ansysuser/check_fluent.sh
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:14:05 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.1 /bin/bash /home/ansysuser/check_fluent.sh
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:14:06 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.1 /bin/bash /home/ansysuser/check_fluent.sh
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:14:07 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.1 /bin/bash /home/ansysuser/check_fluent.sh
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:14:08 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.2 /bin/bash /home/ansysuser/check_fluent.sh
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:14:09 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.2 /bin/bash /home/ansysuser/check_fluent.sh
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:14:10 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.2 /bin/bash /home/ansysuser/check_fluent.sh
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:14:11 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.1 /bin/bash /home/ansysuser/check_fluent.sh
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:14:12 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.1 /bin/bash /home/ansysuser/check_fluent.sh
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:14:13 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.2 /bin/bash /home/ansysuser/check_fluent.sh
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:14:15 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.2 /bin/bash /home/ansysuser/check_fluent.sh
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:14:16 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.2 /bin/bash /home/ansysuser/check_fluent.sh
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:14:17 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.1 /bin/bash /home/ansysuser/check_fluent.sh
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:14:18 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.1 /bin/bash /home/ansysuser/check_fluent.sh
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:14:19 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.1 /bin/bash /home/ansysuser/check_fluent.sh
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:14:20 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.1 /bin/bash /home/ansysuser/check_fluent.sh
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:14:21 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.2 /bin/bash /home/ansysuser/check_fluent.sh
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:14:22 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.1 /bin/bash /home/ansysuser/check_fluent.sh
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:14:23 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.1 /bin/bash /home/ansysuser/check_fluent.sh
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:14:24 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.1 /bin/bash /home/ansysuser/check_fluent.sh
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:14:25 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.2 /bin/bash /home/ansysuser/check_fluent.sh
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:14:26 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.2 /bin/bash /home/ansysuser/check_fluent.sh
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:14:27 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.1 /bin/bash /home/ansysuser/check_fluent.sh
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:14:28 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.2 /bin/bash /home/ansysuser/check_fluent.sh
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:14:29 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.2 /bin/bash /home/ansysuser/check_fluent.sh
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:14:30 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.2 /bin/bash /home/ansysuser/check_fluent.sh
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:14:31 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.2 /bin/bash /home/ansysuser/check_fluent.sh
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:14:32 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.2 /bin/bash /home/ansysuser/check_fluent.sh
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:14:33 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.2 /bin/bash /home/ansysuser/check_fluent.sh
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:14:34 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.2 /bin/bash /home/ansysuser/check_fluent.sh
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:14:35 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.2 /bin/bash /home/ansysuser/check_fluent.sh
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:14:36 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.2 /bin/bash /home/ansysuser/check_fluent.sh
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:14:37 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.2 /bin/bash /home/ansysuser/check_fluent.sh
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:14:38 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.2 /bin/bash /home/ansysuser/check_fluent.sh
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:14:39 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.2 /bin/bash /home/ansysuser/check_fluent.sh
+
+---- Thứ tư, 12 Tháng 11 năm 2025 23:14:40 EST ----
+    982 avahi     0.0 avahi-daemon: running [ansys-fluent.local]
+  12393 root      0.2 /bin/bash /home/ansysuser/check_fluent.sh
