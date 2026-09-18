@@ -1,4 +1,4 @@
-# 01-vmware-vmmon-vmnet-root-cause-analysis
+# 03-vmware-vmmon-vmnet-automation
 
 ## Initial State
 
@@ -92,3 +92,6 @@ From this point on, the signing process is a permanent part of the system's boot
 
 - **Reduced operational overhead.** No more manually re-running the compilation command, hunting down `.ko` file paths, or having the working environment interrupted whenever a security patch silently updates the kernel.
 - **Guaranteed independence from kernel updates.** This permanently resolves the virtualization hardware failure at its root. For backend applications running in containers that need direct interaction with the virtual network range — such as connecting into a VPN pod — the `vmnet` network layer remains stable and will not unexpectedly drop after a reboot.
+
+For production use, the recommended approach is to rely on Ubuntu's native DKMS/MOK signing mechanism whenever possible; this automation serves as a practical workaround for my specific VMware setup.
+Ref: https://manpages.ubuntu.com/manpages/noble/man8/dkms.8.html
