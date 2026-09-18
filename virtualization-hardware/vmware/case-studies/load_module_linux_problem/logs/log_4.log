@@ -1,0 +1,21 @@
+$ grep -i "linux-image" /var/log/apt/history.log
+Install: linux-hwe-6.8-tools-6.8.0-138:amd64 (6.8.0-138.138~22.04.1, automatic), linux-modules-6.8.0-138-generic:amd64 (6.8.0-138.138~22.04.1, automatic), linux-modules-extra-6.8.0-138-generic:amd64 (6.8.0-138.138~22.04.1, automatic), linux-tools-6.8.0-138-generic:amd64 (6.8.0-138.138~22.04.1, automatic), linux-image-6.8.0-138-generic:amd64 (6.8.0-138.138~22.04.1, automatic), linux-hwe-6.8-headers-6.8.0-138:amd64 (6.8.0-138.138~22.04.1, automatic), linux-headers-6.8.0-138-generic:amd64 (6.8.0-138.138~22.04.1, automatic)
+Upgrade: linux-image-generic-hwe-22.04:amd64 (6.8.0-136.136~22.04.1, 6.8.0-138.138~22.04.1), linux-headers-generic-hwe-22.04:amd64 (6.8.0-136.136~22.04.1, 6.8.0-138.138~22.04.1), linux-generic-hwe-22.04:amd64 (6.8.0-136.136~22.04.1, 6.8.0-138.138~22.04.1)
+Remove: linux-modules-6.8.0-124-generic:amd64 (6.8.0-124.124~22.04.1), linux-modules-extra-6.8.0-124-generic:amd64 (6.8.0-124.124~22.04.1), linux-image-6.8.0-124-generic:amd64 (6.8.0-124.124~22.04.1)
+
+
+---------
+
+$ grep -B5 -A5 -i "linux-image-6.8.0-138" /var/log/apt/history.log
+
+Upgrade: libpng16-16:amd64 (1.6.37-3ubuntu0.5, 1.6.37-3ubuntu0.6)
+End-Date: 2026-08-19  09:05:56
+
+Start-Date: 2026-08-21  10:14:28
+Commandline: /usr/bin/unattended-upgrade
+Install: linux-hwe-6.8-tools-6.8.0-138:amd64 (6.8.0-138.138~22.04.1, automatic), linux-modules-6.8.0-138-generic:amd64 (6.8.0-138.138~22.04.1, automatic), linux-modules-extra-6.8.0-138-generic:amd64 (6.8.0-138.138~22.04.1, automatic), linux-tools-6.8.0-138-generic:amd64 (6.8.0-138.138~22.04.1, automatic), linux-image-6.8.0-138-generic:amd64 (6.8.0-138.138~22.04.1, automatic), linux-hwe-6.8-headers-6.8.0-138:amd64 (6.8.0-138.138~22.04.1, automatic), linux-headers-6.8.0-138-generic:amd64 (6.8.0-138.138~22.04.1, automatic)
+Upgrade: linux-image-generic-hwe-22.04:amd64 (6.8.0-136.136~22.04.1, 6.8.0-138.138~22.04.1), linux-headers-generic-hwe-22.04:amd64 (6.8.0-136.136~22.04.1, 6.8.0-138.138~22.04.1), linux-generic-hwe-22.04:amd64 (6.8.0-136.136~22.04.1, 6.8.0-138.138~22.04.1)
+End-Date: 2026-08-21  10:15:19
+
+Start-Date: 2026-08-21  10:15:22
+Commandline: /usr/bin/unattended-upgrade
