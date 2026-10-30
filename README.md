@@ -1,7 +1,6 @@
 # Centralized Infrastructure & DevOps Configuration Repository
 
 **Role:** DevOps / Infrastructure Engineering
-**Context:** XPERC
 **Focus:** Infrastructure as Code (IaC) & Distributed Systems
 
 ## Overview
@@ -10,6 +9,10 @@ This repository serves as the centralized source of truth for Infrastructure as 
 
 The structure is organized by functional domain rather than by isolated tool, reflecting a system-oriented approach to infrastructure management.
 
+![Overall DevOps Lab architecture](docs/images/architecture.svg)
+
+*Overall platform architecture: traffic and access services feed workloads and platform stacks hosted on Proxmox VE and underlying hardware; security, CI/CD, and observability are cross-cutting concerns.*
+
 ## Domain Configurations & Managed Architectures
 
 ### 1. Database Clusters & Distributed Data
@@ -17,7 +20,16 @@ The structure is organized by functional domain rather than by isolated tool, re
 Stored artifacts: High Availability (HA) configurations, failover scripts, and replication topologies for SQL/NoSQL systems.
 
 - **MSSQL High Availability** — Configurations for a multi-site DR topology (2 sites, 3 nodes per site) using [Windows Server Failover Clustering (WSFC)](https://learn.microsoft.com/en-us/windows-server/failover-clustering/failover-clustering-overview) and [Always On Availability Groups](https://learn.microsoft.com/en-us/sql/database-engine/availability-groups/windows/always-on-availability-groups-sql-server), including [Distributed Availability Group](https://learn.microsoft.com/en-us/sql/database-engine/availability-groups/windows/distributed-availability-groups) networking over VPN.
+
+  ![MSSQL Distributed Availability Group architecture](database-clusters/mssql-distributed-ag/asserts/architecture.png)
+
+  *MSSQL Distributed Availability Group topology across the primary and DR sites.*
+
 - **PostgreSQL HA** — Cluster manifests and configuration files for a 3-node HA setup using [Patroni](https://patroni.readthedocs.io/), [etcd](https://etcd.io/), and [Consul](https://developer.hashicorp.com/consul).
+
+  ![PostgreSQL Patroni and etcd HA architecture](database-clusters/postgres-patroni-etcd-ha/asserts/architecture.png)
+
+  *PostgreSQL high-availability topology coordinated by Patroni and etcd.*
 - **Dgraph** — Deployment manifests for a distributed graph database architecture ([Dgraph](https://dgraph.io/)) — work in progress.
 
 ### 2. High Performance Computing (HPC)
